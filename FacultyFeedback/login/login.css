@@ -1,0 +1,135 @@
+.login-container-1{
+    background-color: #f9f9f9;
+}
+.login-logo{
+    width: 200px;
+}
+.login-form{
+    background-color: #ffffff;
+    border: 1px solid #cecece;
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px 1px #a4eec9;
+    padding: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 30px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 78px;
+    padding-bottom: 60px;
+}
+.login-form-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    text-align: center;
+    color: #034C03;
+    font-size: 42px;
+}
+.login-label{
+    color: #034C03;
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.login-input{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #034C03;
+    padding: 10px;
+}
+.login-input:focus{
+    box-shadow: 1px 1px 5px 2px #a4eec9;
+    outline: none;
+    border: 1px solid #75dea9;
+    padding: 20px;
+    font-size: 15px;
+    height: 45px;
+}
+.login-btn{
+    margin-top: 30px;
+    align-self: center;
+    background-color: #28C877;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    padding-bottom: 8px;
+    color: #ffffff;
+    width: 100%;
+    border: 2px solid #28C877;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.login-btn:hover{
+    border: 2px solid #28C877;
+    background-color: #ffffff;
+    color: #28C877;
+}
+.login-container-2{
+    background-color: #f9f9f9;
+    padding: 60px;
+}
+.login-desciption{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #034C03;
+    font-size: 34px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.login-highlight{
+    color:#28C877;
+}
+.marquee-cotainer{
+    background-image: linear-gradient(to right, #ffffff, #a5ffa5, #ffffff);
+    padding-top: 30px;
+}
+.mar-card{
+    border: 1px solid #23b223;
+    width: 170px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #ffffff;
+}
+.login-card-profile{
+    width: 80px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.login-card-name{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #034C03;
+}
+.login-card-desc{
+    font-size: 20px;
+    color: #086508;
+    margin-left: 90px;
+    margin-top: -25px;
+}
+.marquee{
+    height: 150px;
+}
+
+.stars-img{
+    width: 140px;
+    margin-top: -15px;
+    margin-left: 5px;
+}
+.req{
+    color: red;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.create-ac-btn{
+    color: #23b223;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    background: none;
+    border: none;
+    display: inline-block;
+}
